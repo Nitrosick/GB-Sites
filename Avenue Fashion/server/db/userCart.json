@@ -1,0 +1,26 @@
+[
+    {
+        "count": 2,
+        "name": "sweater",
+        "brand": "avenue fashion",
+        "sex": "man",
+        "color": "dark grey",
+        "material": "wool",
+        "price": 89.99,
+        "oldPrice": 107,
+        "img": "images/item_4.jpg",
+        "id": 104
+    },
+    {
+        "count": 1,
+        "name": "t-shirt",
+        "brand": "avenue fashion",
+        "sex": "woman",
+        "color": "white",
+        "material": "cotton",
+        "price": 47.5,
+        "oldPrice": 0,
+        "img": "images/item_2.jpg",
+        "id": 102
+    }
+]

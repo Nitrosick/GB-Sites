@@ -1,0 +1,68 @@
+[
+  {
+    "name": "turtleneck",
+    "brand": "avenue fashion",
+    "sex": "man",
+    "color": "black",
+    "material": "poliester",
+    "price": 89.99,
+    "oldPrice": 0,
+    "img": "images/item_1.jpg",
+    "id": 101
+  },
+  {
+    "name": "t-shirt",
+    "brand": "avenue fashion",
+    "sex": "woman",
+    "color": "white",
+    "material": "cotton",
+    "price": 47.50,
+    "oldPrice": 0,
+    "img": "images/item_2.jpg",
+    "id": 102
+  },
+  {
+    "name": "turtleneck",
+    "brand": "avenue fashion",
+    "sex": "man",
+    "color": "cian",
+    "material": "poliester",
+    "price": 69.95,
+    "oldPrice": 0,
+    "img": "images/item_3.jpg",
+    "id": 103
+  },
+  {
+    "name": "sweater",
+    "brand": "avenue fashion",
+    "sex": "man",
+    "color": "dark grey",
+    "material": "wool",
+    "price": 89.99,
+    "oldPrice": 107,
+    "img": "images/item_4.jpg",
+    "id": 104
+  },
+  {
+    "name": "t-shirt",
+    "brand": "avenue fashion",
+    "sex": "woman",
+    "color": "burnt orange",
+    "material": "cotton",
+    "price": 29.95,
+    "oldPrice": 0,
+    "img": "images/item_5.jpg",
+    "id": 105
+  },
+  {
+    "name": "t-shirt",
+    "brand": "avenue fashion",
+    "sex": "woman",
+    "color": "dark green",
+    "material": "cotton",
+    "price": 34.79,
+    "oldPrice": 0,
+    "img": "images/item_6.jpg",
+    "id": 106
+  }
+]
